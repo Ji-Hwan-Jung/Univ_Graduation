@@ -4,5 +4,5 @@ Smart campus application using NFC and GPS
 
 ## Developer
 - Eun bi Kang
-- Gun young Jung
+- Geon yeong Jung
 - Ji Hwan Jung
