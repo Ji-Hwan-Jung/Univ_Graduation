@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Somcoco</string>
+    <string name="tmap_key">TmapApiKey</string>
+</resources>
