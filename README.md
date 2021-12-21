@@ -1,3 +1,3 @@
 # Univ_Graduation
 
-Univ First Commit
+Smart campus application using NFC and GPS
