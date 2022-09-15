@@ -1,8 +1,62 @@
-# Univ_Graduation
+# NFC와 GPS를 활용한 스마트캠퍼스 애플리케이션
 
-Smart campus application using NFC and GPS
+## 개요
+캠퍼스 내의 시설 및 기관에 대한 정보를 제공하는 서비스
 
-## Developer
-- Eun bi Kang
-- Geon yeong Jung
-- Ji Hwan Jung
+<br>
+
+## 개발 목적
+어떤 캠퍼스 관련 커뮤니티에서 찾고자 하는 시설이 캠퍼스 내에 있는지, 어디에 있는지, 물어보는 질문글이 적지 않게 있었음. <br>
+심지어, 신입생 뿐만 아니라 재학생들도 잘 모르는 경우가 허다했음. <br>
+또한, 외부 방문객들도 캠퍼스 내 시설에 대한 정보를 잘 모르기 때문에 이와 관련한 불편함을 해소할 수 있는 서비스를 만들고자 함
+
+<br>
+
+## 개발 기간
+2021.05 ~ 2021.11
+
+<br>
+
+## 팀원
+- 강은비
+- 정건영
+- 정지환
+
+<br>
+
+## 주요 기능
+**캠퍼스 검색**
+
+![image01](https://user-images.githubusercontent.com/96276840/190418596-7c4fca64-c454-483e-bc85-7c1a08e49530.png)
+- 찾고자 하는 학교를 검색할 수 있음
+- 사용자 편의를 위한 음성 검색 및 필터링 기능 제공
+
+<br><br>
+
+**캠퍼스 정보**
+
+![image02](https://user-images.githubusercontent.com/96276840/190419884-a73227ef-b196-419e-bc96-4a02a7a7d2f1.png)
+- 검색한 학교의 기본정보 제공
+
+<br><br>
+
+**시설 정보**
+
+![image03](https://user-images.githubusercontent.com/96276840/190426612-32f4b340-6416-4275-b3ce-6999f5251b72.png)
+- 시설에 부착된 NFC 태그에 스마트폰 뒷면을 접촉하면 해당 시설의 정보 제공
+- 사용자 편의를 위한 음성 안내 기능 제공
+
+<br><br>
+
+**시설 찾기**
+
+![image04](https://user-images.githubusercontent.com/96276840/190427819-099c3988-bce2-45ea-b71a-09fe48f2a6f0.png)
+- 캠퍼스 내의 시설 위치 정보 제공
+- 지정한 시설까지 길 안내 기능 제공
+
+<br><br>
+
+## 사용한 기술
+- Java
+- MySQL
+- Android Studio
